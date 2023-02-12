@@ -1,6 +1,6 @@
 # MINI SHELL program
-## Goal:
-#### Creating a Mini Shell program Where the commands are parsed using lex and yacc. These commands are executed using C code.
+## Intro:
+#### Creating a Simple Shell program Where the commands are parsed using lex and yacc. These commands are executed using C code.
 ## Structure Used
 #### We Used a Command structure and Simple Command Structure found in `command.h` file. Where a Command is a list of simple commands in addition to there input and output files.
 > This is how these structs look like
